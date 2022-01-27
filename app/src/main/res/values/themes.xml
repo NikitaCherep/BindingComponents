@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="BindingComponents" parent="Theme.AppCompat">
+
+    </style>
+
+</resources>
